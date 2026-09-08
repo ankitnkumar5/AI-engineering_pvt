@@ -8,8 +8,6 @@ print(len(fruits))
 
 #Modifying, Adding, and Removing Elements
 numbers = [10, 20, 30]
-
-# Modify an existing element
 numbers[1] = 25
 print(numbers)
 numbers.append(40)
@@ -19,3 +17,15 @@ print(numbers)
 numbers.remove(25) 
 last_item = numbers.pop() 
 print(numbers) 
+
+#Iterating and Transforming Elements
+scores = [85, 92, 78, 90]
+
+for score in scores:
+    print(score)
+
+for index, score in enumerate(scores):
+    print(f"Index {index}: Score {score}")
+
+doubled_scores = [score * 2 for score in scores]
+print(doubled_scores)
