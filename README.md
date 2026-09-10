@@ -12,7 +12,9 @@ A collection of hands-on projects, code implementations, notes, and experiments 
 - **Retrieval-Augmented Generation (RAG):** Building semantic search pipelines using vector databases and frameworks like LangChain & LlamaIndex.
 - **Fine-Tuning:** Customizing LLMs using LoRA, QLoRA, and Hugging Face parameters.
 - **AI Agents:** Implementing autonomous workflows with tool-calling capabilities.
-- **Deployment & MLOps:** Packaging AI applications with FastAPI, Docker, and building UI demos
+- **Deployment & MLOps:** Packaging AI applications with FastAPI, Docker, and building UI 
+
+ mai chaye yea karu mai chaye vo karu meri marziiiiiiiii
 
 ---
 
