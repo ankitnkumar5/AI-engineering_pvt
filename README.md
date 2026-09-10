@@ -16,6 +16,10 @@ A collection of hands-on projects, code implementations, notes, and experiments 
 
  mai chaye yea karu mai chaye vo karu meri marziiiiiiiii
 
+
+ it is what it is 
+ 
+
 ---
 
 ## 📂 Repository Structure
