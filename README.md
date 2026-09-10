@@ -14,10 +14,6 @@ A collection of hands-on projects, code implementations, notes, and experiments 
 - **AI Agents:** Implementing autonomous workflows with tool-calling capabilities.
 - **Deployment & MLOps:** Packaging AI applications with FastAPI, Docker, and building UI 
 
- mai chaye yea karu mai chaye vo karu meri marziiiiiiiii
-
- 
-
 ---
 
 ## 📂 Repository Structure
