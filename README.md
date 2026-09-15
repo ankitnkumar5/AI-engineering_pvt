@@ -4,7 +4,7 @@ A collection of hands-on projects, code implementations, notes, and experiments 
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Focus Area
 
 - **Fundamentals & Core ML:** Math foundations, PyTorch, and classical machine learning.
 - **Deep Learning & Transformers:** Neural networks, attention mechanisms, and vision/language models.
