@@ -161,3 +161,21 @@ if __name__ == "__main__":
     main()
     
 
+
+#-----------------------------Number gussing game---------------------------------------------
+import random
+
+target = random.randint(1, 100)
+attempts = 5
+
+print("Guess the number between 1 and 100!")
+while attempts > 0:
+    guess = int(input(f"({attempts} attempts left) Enter guess: "))
+    if guess == target:
+        print("You won!")
+        break
+    elif guess < target:
+        print("Too low.")
+    else:
+        print("Too high.")
+    attempts -= 1
