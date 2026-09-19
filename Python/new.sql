@@ -1,4 +1,4 @@
-#--------------------Beginner SQL
+#--------------------Beginner SQL-------------------------------------------
 
 Database Basics: Relational model, tables, rows, columns, primary & foreign keys
 
@@ -16,7 +16,7 @@ Data Manipulation (DML): INSERT, UPDATE, DELETE
 
 Data Definition (DDL): CREATE TABLE, ALTER TABLE, DROP TABLE, basic constraints (NOT NULL, UNIQUE, CHECK)
 
-#------------------------Intermediate SQL
+#------------------------Intermediate SQL---------------------------------
 
 Advanced Joins: FULL OUTER JOIN, CROSS JOIN, SELF JOIN
 
@@ -34,7 +34,7 @@ Built-in Functions: String operations, date/time manipulation, numeric functions
 
 Transactions & Data Control: COMMIT, ROLLBACK, SAVEPOINT, ACID properties, basic GRANT / REVOKE
 
-#-------------------------------Expert SQL
+#-------------------------------Expert SQL-----------------------------------
 
 Window Functions: ROW_NUMBER(), RANK(), DENSE_RANK(), LEAD(), LAG(), frame specifications (ROWS/RANGE BETWEEN)
 
