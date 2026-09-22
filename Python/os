@@ -18,7 +18,7 @@ Deadlocks:
 
 Four necessary conditions (Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait).
 
-Detection, Prevention, Avoidance (Banker’s Algorithm), and Recovery techniques.
+Detection, Prevention, Avoidance (Banker’s Algorithm), and Recovery techniques
 
 3. Memory Management
 Virtual Memory: Pages, frames, page tables, and Translation Lookaside Buffer (TLB).
