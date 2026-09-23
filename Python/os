@@ -40,3 +40,47 @@ Disk Management: Disk scheduling algorithms (SSTF, SCAN, C-SCAN) and I/O bufferi
 Kernel vs. User Mode: System call execution flow, dual-mode operation, and interrupts/traps.
 
 I/O Models: Synchronous vs. Asynchronous I/O, Blocking vs. Non-blocking I/O. 
+
+
+
+
+#----To prepare for software development roles and technical interviews, focus on the core Operating Systems (OS) concepts that directly impact software design, performance, and system behavior:-------
+
+1. Process & Thread Management
+Processes vs. Threads: Differences, execution models, and memory layouts (Heap, Stack, Code, Data).
+
+Context Switching: How CPU switches execution contexts, overhead involved, and state preservation.
+
+Concurrency & Multithreading: Thread lifecycles, user-level vs. kernel-level threads, and multithreading models.
+
+CPU Scheduling: Scheduling algorithms (FCFS, SJF, Round Robin, Priority Scheduling, Multi-level Queue).
+
+2. Synchronization & Deadlocks
+Race Conditions & Critical Section: Identification of concurrency bugs and critical sections.
+
+Synchronization Primitives: Mutexes, Semaphores, Spinlocks, Condition Variables, and Monitors.
+
+Deadlocks:
+
+Four necessary conditions (Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait).
+
+Detection, Prevention, Avoidance (Banker’s Algorithm), and Recovery techniques
+
+3. Memory Management
+Virtual Memory: Pages, frames, page tables, and Translation Lookaside Buffer (TLB).
+
+Memory Allocation: Paging, Segmentation, and memory fragmentation (Internal vs. External).
+
+Page Faults & Swapping: Page replacement algorithms (FIFO, LRU, LFU, Optimal).
+
+Stack vs. Heap: Dynamic vs. static allocation, cache locality, and garbage collection principles.
+
+4. Storage & File Systems
+File Operations: File descriptors, file allocation methods (Contiguous, Linked, Indexed), and inodes.
+
+Disk Management: Disk scheduling algorithms (SSTF, SCAN, C-SCAN) and I/O buffering.
+
+5. System Calls & I/O Systems
+Kernel vs. User Mode: System call execution flow, dual-mode operation, and interrupts/traps.
+
+I/O Models: Synchronous vs. Asynchronous I/O, Blocking vs. Non-blocking I/O. 
