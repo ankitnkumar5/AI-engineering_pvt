@@ -1,4 +1,6 @@
-To prepare for software development roles and technical interviews, focus on the core Operating Systems (OS) concepts that directly impact software design, performance, and system behavior:
+
+
+#----To prepare for software development roles and technical interviews, focus on the core Operating Systems (OS) concepts that directly impact software design, performance, and system behavior:-------
 
 1. Process & Thread Management
 Processes vs. Threads: Differences, execution models, and memory layouts (Heap, Stack, Code, Data).
