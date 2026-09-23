@@ -24,7 +24,7 @@ A collection of hands-on projects, code implementations, notes, and experiments 
 | `02-machine-learning` | Scikit-learn models and data processing pipelines | ⏳ Planned |
 | `03-deep-learning` | PyTorch models, custom training loops, and architecture tests | ⏳ Planned |
 | `04-llms-and-prompting` | Prompt strategies, structured outputs, API wrappers | ⏳ Planned |
-| `05-rag-systems` | Document loaders, chunking strategies, vector stores | ⏳ Planned |
+| `05-rag-systems` | Document loaders, chunking strategies, vector stores | ⏳ Planned 
 | `06-fine-tuning` | Model fine-tuning notebooks and parameter tuning | ⏳ Planned |
 | `07-ai-agents` | Multi-agent workflows and custom tool integrations | ⏳ Planned |
 | `08-deployment-and-mlops`| Streamlit/Gradio apps, Docker containers, API routes | ⏳ Planned |
