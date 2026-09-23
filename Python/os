@@ -39,4 +39,4 @@ Disk Management: Disk scheduling algorithms (SSTF, SCAN, C-SCAN) and I/O bufferi
 5. System Calls & I/O Systems
 Kernel vs. User Mode: System call execution flow, dual-mode operation, and interrupts/traps.
 
-I/O Models: Synchronous vs. Asynchronous I/O, Blocking vs. Non-blocking I/O.
+I/O Models: Synchronous vs. Asynchronous I/O, Blocking vs. Non-blocking I/O. 
