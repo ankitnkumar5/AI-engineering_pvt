@@ -14,7 +14,6 @@ def load_flashcards():
         except json.JSONDecodeError:
             print("Warning: Could not parse flashcards file. Starting fresh.")
             return {}
-    # Default set of flashcards if no file exists yet
     return {
         "What is the keyword to define a function in Python?": "def",
         "Which data structure uses key-value pairs?": "dictionary",
@@ -102,4 +101,4 @@ def main():
             print("Invalid choice. Please enter 1, 2, 3, or 4.\n")
 
 if __name__ == "__main__":
-    main()
+    main() 
