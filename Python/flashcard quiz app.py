@@ -1,5 +1,5 @@
-    #----------------------------Flashcard Quiz App---------------------------------
-    import json
+ #----------------------------Flashcard Quiz App---------------------------------
+import json
 import random
 import os
 
