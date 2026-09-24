@@ -11,6 +11,10 @@ Concurrency & Multithreading: Thread lifecycles, user-level vs. kernel-level thr
 
 CPU Scheduling: Scheduling algorithms (FCFS, SJF, Round Robin, Priority Scheduling, Multi-level Queue).
 
+
+
+cpu scheduling scheduling algo fcfs sjf round robin 
+
 2. Synchronization & Deadlocks
 Race Conditions & Critical Section: Identification of concurrency bugs and critical sections.
 
