@@ -18,13 +18,6 @@ cpu scheduling scheduling algo fcfs sjf round robin
 2. Synchronization & Deadlocks
 Race Conditions & Critical Section: Identification of concurrency bugs and critical sections.
 
-Synchronization Primitives: Mutexes, Semaphores, Spinlocks, Condition Variables, and Monitors.
-
-
-Four necessary conditions (Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait).
-
-Detection, Prevention, Avoidance (Banker’s Algorithm), and Recovery techniques
-
 3. Memory Management
 Virtual Memory: Pages, frames, page tables, and Translation Lookaside Buffer (TLB).
 
