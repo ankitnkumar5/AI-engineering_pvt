@@ -1,4 +1,4 @@
-#------------------Beginner SQL-------------------------------------------
+#------------------Beginner SQL---
 
 Database Basics: Relational model, tables, rows, columns, primary & foreign keys
 
@@ -16,7 +16,7 @@ Data Manipulation (DML): INSERT, UPDATE, DELETE
 
 Data Definition (DDL): CREATE TABLE, ALTER TABLE, DROP TABLE, basic constraints (NOT NULL, UNIQUE, CHECK)
 
-#------------------------Intermediate SQL--------------------------------
+#------------------------Intermediate SQL------
 
 Advanced Joins: FULL OUTER JOIN, CROSS JOIN, SELF JOIN
 
