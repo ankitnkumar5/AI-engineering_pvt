@@ -19,7 +19,7 @@ cpu scheduling scheduling algo fcfs sjf round robin
 Stack vs. Heap: Dynamic vs. static allocation, cache locality, and garbage collection principles.
 
 4. Storage & File Systems
-File Operations: File descriptors, file allocation methods (Contiguous, Linked, Indexed), and inodes.
+File Operations: File descriptors, file allocation  (Contiguous, Linked, Indexed), and inodes.
 
 Disk Management: Disk scheduling algorithms (SSTF, SCAN, C-SCAN) and I/O buffering.
 
