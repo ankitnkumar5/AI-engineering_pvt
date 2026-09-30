@@ -162,7 +162,7 @@ if __name__ == "__main__":
     
 
 
-#----------------------Number gussing game------------------------------------
+#----------------------Number gussing game--------------------------------
 import random
 
 target = random.randint(1, 100)
