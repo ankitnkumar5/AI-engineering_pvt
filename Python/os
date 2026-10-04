@@ -2,18 +2,7 @@
 
 #----To prepare for software development roles and technical interviews, focus on the core Operating Systems (OS) concepts that directly impact software design, performance, and system behavior:-------
 
-1. Process & Thread Managem
-CPU Scheduling: Scheduling algorithms (FCFS, SJF, Round Robin, Priority Scheduling, Multi-level Queue).
 
-
-    
-cpu scheduling scheduling algo fcfs sjf round robin 
-
-
-Stack vs. Heap: Dynamic vs. static allocation, cache locality, and garbage collection principles.
-
-4. Storage & File Systems
-File Operations: File descriptoes.
 
 
 
