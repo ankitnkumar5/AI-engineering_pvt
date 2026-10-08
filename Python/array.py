@@ -25,6 +25,6 @@ for index, score in enumerate(scores):
 
 doubled_score = [score * 2 for score in scores]
 print(doubled_score)
+#end of array.py
 
-#end
 #staring sql 
