@@ -27,3 +27,4 @@ doubled_score = [score * 2 for score in scores]
 print(doubled_score)
 
 #end
+#staring sql 
