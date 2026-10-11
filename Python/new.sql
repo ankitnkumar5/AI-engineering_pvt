@@ -34,7 +34,7 @@ Built-in Functions: String operations, date/time manipulation, numeric functions
 
 Transactions & Data Control: COMMIT, ROLLBACK, SAVEPOINT, ACID properties, basic GRANT / REVOKE
 
-#-----Expert SQL
+#----Expert SQL
 
 Window Functions: ROW_NUMBER(), RANK(), DENSE_RANK(), LEAD(), LAG(), frame specifications (ROWS/RANGE BETWEEN)
 
