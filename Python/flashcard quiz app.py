@@ -1,4 +1,4 @@
- #----Flashcard Quiz App--------
+ #----Flashcard Quiz App------
 import json
 import random
 import os
