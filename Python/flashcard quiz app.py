@@ -1,4 +1,4 @@
- #----Flashcard Quiz App-----------------------------------
+ #--------------------------------------------Flashcard Quiz App-----------------------------------
 import json
 import random
 import os
@@ -102,5 +102,4 @@ def main():
 
 if __name__ == "__main__":
     main() 
-    a
     
