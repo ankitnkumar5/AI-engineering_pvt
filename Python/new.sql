@@ -10,12 +10,6 @@ Sorting & Limiting: ORDER BY, LIMIT / TOP / FETCH FIRST
 
 Aggregation: COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING
 
-Basic Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN
-
-Data Manipulation (DML): INSERT, UPDATE, DELETE
-
-Data Definition (DDL): CREATE TABLE, ALTER TABLE, DROP TABLE, basic constraints (NOT NULL, UNIQUE, CHECK)
-
 #--------------------------Intermediate SQL
 
 Advanced Joins: FULL OUTER JOIN, CROSS JOIN, SELF JOIN
