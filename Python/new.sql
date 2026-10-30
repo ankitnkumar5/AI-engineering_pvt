@@ -6,9 +6,7 @@ Querying Data: SELECT, DISTINCT, column aliasing (AS)
 
 Filtering: WHERE, logical operators (AND, OR, NOT), IN, BETWEEN, LIKE, IS NULL
 
-Sorting & Limiting: ORDER BY, LIMIT / TOP / FETCH FIRST
-
-Aggregation: COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING
+3
 
 #--------------------------Intermediate SQL
 
