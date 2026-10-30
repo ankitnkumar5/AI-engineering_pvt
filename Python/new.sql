@@ -12,9 +12,6 @@ Filtering: WHERE, logical operators (AND, OR, NOT), IN, BETWEEN, LIKE, IS NULL
 
 Advanced Joins: FULL OUTER JOIN, CROSS JOIN, SELF JOIN
 
-Set Operators: UNION, UNION ALL, INTERSECT, EXCEPT / MINUS
-
-Conditional Logic: CASE WHEN ... THEN ... ELSE ... END, COALESCE, NULLIF
 
 Subqueries: Scalar subqueries, correlated subqueries, EXISTS vs. IN
 
