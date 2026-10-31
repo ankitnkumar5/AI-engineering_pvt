@@ -10,13 +10,6 @@ Filtering: WHERE, logical operators (AND, OR, NOT), IN, BETWEEN, LIKE, IS NULL
 
 #--------------------------Intermediate SQL
 
-Advanced Joins: FULL OUTER JOIN, CROSS JOIN, SELF JOIN
-
-Views: Creating, updating, and querying views
-
-Built-in Functions: String operations, date/time manipulation, numeric functions, type casting (CAST, CONVERT)
-
-Transactions & Data Control: COMMIT, ROLLBACK, SAVEPOINT, ACID properties, basic GRANT / REVOKE
 
 #--------------------------Expert SQL
 
