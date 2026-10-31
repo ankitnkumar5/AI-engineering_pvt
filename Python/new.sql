@@ -12,11 +12,6 @@ Filtering: WHERE, logical operators (AND, OR, NOT), IN, BETWEEN, LIKE, IS NULL
 
 Advanced Joins: FULL OUTER JOIN, CROSS JOIN, SELF JOIN
 
-
-Subqueries: Scalar subqueries, correlated subqueries, EXISTS vs. IN
-
-Common Table Expressions (CTEs): Standard WITH clause for readability and modularity
-
 Views: Creating, updating, and querying views
 
 Built-in Functions: String operations, date/time manipulation, numeric functions, type casting (CAST, CONVERT)
