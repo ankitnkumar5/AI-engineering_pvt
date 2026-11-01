@@ -21,9 +21,7 @@ Indexing & Performance Tuning: B-tree vs. Hash indexes, composite indexes, query
 
 Advanced Aggregations: GROUPING SETS, CUBE, ROLLUP
 
-Database Design & Optimization: Normalization (1NF to 3NF/BCNF), denormalization strategies, partitioning (range, list, hash)
 
-Programmability: Stored procedures, user-defined functions (UDFs), triggers, dynamic SQL
 
 
 
