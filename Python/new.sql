@@ -25,9 +25,7 @@ Database Design & Optimization: Normalization (1NF to 3NF/BCNF), denormalization
 
 Programmability: Stored procedures, user-defined functions (UDFs), triggers, dynamic SQL
 
-Concurrency & Locking: Isolation levels (READ COMMITTED, SERIALIZABLE), deadlocks, optimistic vs. pessimistic locking
 
-JSON & Semi-Structured Data: Querying JSON paths, arrays, and unstructured types directly within SQL
 
 
 
