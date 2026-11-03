@@ -4,7 +4,7 @@ Database Basics: Relational model, tables, rows, columns, primary & foreign keys
 
 Querying Data: SELECT, DISTINCT, column aliasing (AS)
 
-Filtering: WHERE, logical operators (AND, OR, NOT), IN, BETWEEN, LIKE, IS NULL
+
 
 3
 
