@@ -12,8 +12,7 @@ Querying Data: SELECT, DISTINCT, column aliasing (AS)
 
 
 #--------------------------Expert SQL
-
-Window Functions: ROW_NUMBER(), RANK(), DENSE_RANK(), LEAD(), LAG(), frame specifications (ROWS/RANGE BETWEEN)
+NSE_RANK(), LEAD(), LAG(), frame specifications (ROWS/RANGE BETWEEN)
 
 Advanced CTEs: Recursive queries for hierarchical and graph data structures
 
