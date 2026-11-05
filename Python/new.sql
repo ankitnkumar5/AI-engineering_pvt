@@ -16,8 +16,6 @@ NSE_RANK(), LEAD(), LAG(), frame specifications (ROWS/RANGE BETWEEN)
 
 
 
-Indexing & Performance Tuning: B-tree vs. Hash indexes, composite indexes, query execution plans (EXPLAIN), index scans vs. seeks
-
 Advanced Aggregat
 
 
