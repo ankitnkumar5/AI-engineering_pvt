@@ -12,6 +12,13 @@ Querying Data: SELECT, DISTINCT, column aliasing (AS)
 
 
 #--------------------------Expert SQL
+NSE_RANK(), LEAD(), LAG(), frame spe
+
+
+
+Indexing & Performance Tuning: B-tree vs. Hash indexes, composite indexes, query execution plans (EXPLAIN), index scans vs. seeks
+
+Advanced Aggregat
 
 
 
