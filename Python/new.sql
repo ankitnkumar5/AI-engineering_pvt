@@ -12,7 +12,8 @@ Querying Data: SELECT, DISTINCT, column aliasing (AS)
 
 
 #--------------------------Expert SQL
-NSE_RANK(), LEAD(), LAG(), frame spe
+NSE_RANK(), LEAD(),
+
 
 
 
