@@ -11,8 +11,7 @@ Querying Data: SELECT, DISTINCT, column aliasing (AS)
 #--------------------------Intermediate SQL
 
 
-#--------------------------Expert SQL
-NSE_RANK(), LEAD(),
+
 
 
 
