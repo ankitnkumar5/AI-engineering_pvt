@@ -6,9 +6,7 @@ Querying Data: SELECT, DISTINCT, column aliasing (AS)
 
 
 
-3
 
-#--------------------------Intermediate SQL
 
 
 
