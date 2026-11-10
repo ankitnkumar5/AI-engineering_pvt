@@ -1,5 +1,5 @@
 #--------------------------Beginner SQL
-Relational model, tables, rows, columns, 
+Relational model, tables, rows
 
 
 
