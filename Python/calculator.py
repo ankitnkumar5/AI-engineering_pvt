@@ -25,7 +25,7 @@ def calculator():
     print("4. Division (/)")
 
     while True:
-        choice = input("\nEnter choice (1/2/3/4) or 'q' to quit: ").strip()
+        choice = input("\nEnter choice (1/2/3/4) or 'q': ").strip()
 
         if choice.lower() == "q":
             print("Exiting calculator. Goodbye!")
