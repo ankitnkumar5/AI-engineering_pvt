@@ -17,9 +17,11 @@ def divide(x, y):
     return x / y
 
 
-def calculator():
+def calculator(): 
+    
     print("Select Operation:")
-    print("1. Addition (+)")
+    print("1. Addition (+)") # addition has been done here
+    
     print("2. Subtraction (-)")
     print("3. Multiplication (*)")
     
