@@ -26,7 +26,7 @@ def calculator():
     
     print("3. Multiplication (*)") #Multiplication 
     
-    print("4. Division (/)")#divide
+    print("4. Division (/)")#div
 
     while True:
         choice = input("\nEnter choice (1/2/3/4) or 'q': ").strip()
