@@ -24,7 +24,7 @@ def calculator():
     
     print("2. Subtraction (-)")#subtract
     
-    print("3. Multiplication (*)") #Multiplication 
+    print("3. Multiplication (*)") #Multi
     
     print("4. Division (/)")#div
 
