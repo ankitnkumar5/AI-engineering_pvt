@@ -20,9 +20,9 @@ def divide(x, y):
 def calculator(): 
     
     print("Select Operation:")
-    print("1. Addition (+)") # addition 
+    print("1. Addition (+)") # additi
     
-    print("2. Subtraction (-)")#subtract
+    print("2. Subtraction (-)")#sub
     
     print("3. Multiplication (*)") #Multi
     
