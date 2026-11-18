@@ -20,7 +20,7 @@ def divide(x, y):
 def calculator(): 
     
     print("Select Operation:")
-    print("1. Addition (+)") # additi
+    print("1. Addition (+)") # add
     
     print("2. Subtraction (-)")#sub
     
