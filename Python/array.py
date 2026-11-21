@@ -15,7 +15,7 @@ numbers.remove(25)
 last_item = numbers.pop() 
 print(numbers) 
 
-scores = [85, 92, 78, 90]
+scores = [85, 92, 78, 90] #score
 
 for score in scores:
     print(score)
