@@ -24,7 +24,7 @@ for index, score in enumerate(scores):
     print(f"Index {index}: Score {score}")
 
 doubled_score = [score * 2 for score in scores]
-print(doubled_score)
+print(doubled_score)#print
 
 
 
