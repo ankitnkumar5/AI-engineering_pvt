@@ -1,5 +1,5 @@
 
-fruits = ["Apple", "Banana", "Cherry", "Mangoo"]
+fruits = ["Apple", "Banana", "Cherry", "Mangoo"]#input
 print(fruits[0])  
 print(fruits[2]) 
 print(fruits[-1])
@@ -15,7 +15,7 @@ numbers.remove(25)
 last_item = numbers.pop() 
 print(numbers) 
 
-scores = [85, 92, 78, 90] #score
+scores = [85, 92, 78, 90] #score done 
 
 for score in scores:
     print(score)
