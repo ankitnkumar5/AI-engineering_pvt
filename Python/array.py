@@ -15,7 +15,7 @@ numbers.remove(25)
 last_item = numbers.pop() 
 print(numbers) 
 
-scores = [85, 92, 78, 90] \
+scores = [85, 92, 78, 90] 
 
 for score in scores:
     print(score)
@@ -24,7 +24,7 @@ for index, score in enumerate(scores):
     print(f"Index {index}: Score {score}")
 
 doubled_score = [score * 2 for score in scores]
-print(doubled_score)#print
+print(doubled_score)
 
 
 
