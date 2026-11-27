@@ -19,6 +19,7 @@ def load_flashcards():
         "Which data structure uses key-value pairs?": "dictionary",
         "What module is used to work with JSON in Python?": "json",
         "What is the output of 3 ** 2 in Python?": "9"
+        
     }
 
 def save_flashcards(cards):
